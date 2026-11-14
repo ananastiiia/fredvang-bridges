@@ -1,0 +1,18 @@
+The Only Road — Fredvang Bridges, Lofoten
+Portfolio case study (non-commercial).
+
+Terrain: Kartverket elevation data (CC BY 4.0). Roads: © OpenStreetMap contributors (ODbL).
+
+Location photos (Wikimedia Commons):
+  00-intro: "Fredvang Bridges Lofoten Islands (25040588031).jpg" by Peter Edwards from Outskirts of camborne, United Kingdom, CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Fredvang_Bridges_Lofoten_Islands_(25040588031).jpg
+  01-ramberg: "Ramberg (Lofoten).jpg" by Æøå, Public domain — https://commons.wikimedia.org/wiki/File:Ramberg_(Lofoten).jpg
+  02-turn-off: "Strandveien road towards Fredvang near Røssøystraumen in Flakstad, Nordland, Norway, 2022 June.jpg" by Ximonic (Simo Räsänen), CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Strandveien_road_towards_Fredvang_near_R%C3%B8ss%C3%B8ystraumen_in_Flakstad,_Nordland,_Norway,_2022_June.jpg
+  03-volandstinden: "Volandstinden shrouded by clouds.jpg" by Tom Bech from Oslo, Norway, CC BY 2.0 — https://commons.wikimedia.org/wiki/File:Volandstinden_shrouded_by_clouds.jpg
+  04-kubholmleia: "The Fredvang Bridges.jpg" by Stch2022, CC0 — https://commons.wikimedia.org/wiki/File:The_Fredvang_Bridges.jpg
+  05-causeway: "Strandveien road via the Fredvang Bridges, Nordland, Norway, 2022 June.jpg" by Ximonic (Simo Räsänen), CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Strandveien_road_via_the_Fredvang_Bridges,_Nordland,_Norway,_2022_June.jpg
+  06-rossoystraumen: "Kubholmleia and Røssøystraumen bridges.jpg" by Arend Veenhuizen, CC BY 3.0 — https://commons.wikimedia.org/wiki/File:Kubholmleia_and_R%C3%B8ss%C3%B8ystraumen_bridges.jpg
+  07-fredvang: "Fredvang city limits sign.jpg" by Stch2022, CC0 — https://commons.wikimedia.org/wiki/File:Fredvang_city_limits_sign.jpg
+
+To share: upload the "site" folder to any static host (e.g. Netlify Drop, app.netlify.com/drop).
+To view on this Mac: double-click "Open site.command" (needs Node.js or Python 3).
+Double-clicking site/index.html will not work — browsers block the scene's scripts and data from disk.
